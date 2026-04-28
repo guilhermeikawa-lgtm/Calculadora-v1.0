@@ -1,10 +1,10 @@
-# 🧮 Calculadora-v1.0
+# Calculadora-v1.0
 
 > Meu primeiro projeto de desenvolvimento web — simples, funcional e em constante evolução.
 
 ---
 
-## 📖 Sobre o Projeto
+## Sobre o Projeto
 
 Esta calculadora é o meu **primeiro projeto** desenvolvido com HTML, CSS e JavaScript. O objetivo principal foi colocar em prática os conhecimentos iniciais que venho adquirindo no desenvolvimento web, entendendo como estruturar uma página, estilizá-la e adicionar interatividade com JavaScript.
 
@@ -12,7 +12,7 @@ O projeto está em **desenvolvimento contínuo** — conforme meu aprendizado av
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - [x] Operações básicas: adição, subtração, multiplicação e divisão
 - [ ] Histórico de operações *(em breve)*
@@ -21,7 +21,7 @@ O projeto está em **desenvolvimento contínuo** — conforme meu aprendizado av
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** — estrutura da página
 - **CSS3** — estilização e layout
@@ -29,7 +29,7 @@ O projeto está em **desenvolvimento contínuo** — conforme meu aprendizado av
 
 ---
 
-## 🚀 Como Usar
+## Como Usar
 
 1. Clone o repositório:
    ```bash
@@ -39,7 +39,7 @@ O projeto está em **desenvolvimento contínuo** — conforme meu aprendizado av
 
 ---
 
-## 📚 Aprendizados
+## Aprendizados
 
 Este projeto me ajudou a praticar:
 
@@ -50,7 +50,7 @@ Este projeto me ajudou a praticar:
 
 ---
 
-## 🔄 Próximos Passos
+## Próximos Passos
 
 Este projeto vai crescer junto com o meu aprendizado. Algumas ideias para versões futuras:
 
@@ -61,7 +61,7 @@ Este projeto vai crescer junto com o meu aprendizado. Algumas ideias para versõ
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Feito com dedicação e muito aprendizado! Se tiver sugestões ou feedbacks, fique à vontade para abrir uma *issue* ou entrar em contato.
 
